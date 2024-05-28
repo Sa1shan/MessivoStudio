@@ -361,6 +361,7 @@
 "Assets/Code/CameraFollow.cs"
 "Assets/Code/camerazoom.cs"
 "Assets/Code/MoveOsi.cs"
+"Assets/Code/musicmanager.cs"
 "Assets/Code/PlayeTOP.cs"
 -langversion:9.0
 
